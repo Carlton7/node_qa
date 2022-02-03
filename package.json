@@ -1,0 +1,25 @@
+{
+  "name": "node_qa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Carlton7/node_qa.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Carlton7/node_qa/issues"
+  },
+  "homepage": "https://github.com/Carlton7/node_qa#readme",
+  "dependencies": {
+    "cowsay": "^1.5.0"
+  }
+}
